@@ -1,4 +1,4 @@
-# Homs Map
+# Sarfees App
 
 ## Requirements
 
@@ -10,13 +10,13 @@
 
 ```
 git clone https://github.com/HAMZA98755/sarfees-app.git
-cd homs-map
+cd sarfees-app
 ```
 
 2. Create a file named `.env` in the project root:
 
 ```
-DB_PASSWORD=chose_simple__password
+DB_PASSWORD=chose_simple_password
 ```
 
 3. Start the project:
